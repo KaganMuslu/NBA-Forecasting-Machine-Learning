@@ -1,6 +1,6 @@
 # NBA-Forecasting / Machine-Learning
 
-Bu projemde, NBA takımlarının gelecekteki maçlarında toplam kaç sayı atılacağını tahmin etmek amacıyla bir veri analizi yaklaşımı kullanıyorum. Projem, veri çekme, veri işleme ve makine öğrenimi analizlerini içeriyor.
+Bu projemde, NBA takımlarının gelecekteki maçlarında toplam kaç sayı atılacağını tahmin etmek amacıyla bir veri analizi yaklaşımı kullanıyorum. Projem, veri çekme, veri işleme ve makine öğrenimi analizlerini içermektedir.
 
 ### Veri Çekme
 NBA takımlarının gelecekteki ve geçmişteki maç verilerini elde etmek için, <a href= "basketball-reference.com">"Basketball Reference"</a> adlı web sitesinden veri çekme işlemi gerçekleştiriyorum. Bu veriler, her iki takımın gelecekteki maç tarihleri ve takımların geçmiş maçlarının sonuçları gibi bilgileri içermektedir.
