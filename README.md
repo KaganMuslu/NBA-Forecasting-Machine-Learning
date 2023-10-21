@@ -12,7 +12,7 @@ Elde edilen verileri işlemek için Python dilinde popüler veri işleme kütüp
 Tahmin yapmak için makine öğrenimi tekniklerini kullanıyorum. <a href="https://scikit-learn.org">Sklearn</a> kütüphanesinde bulunan <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html">LinearRegression</a> algoritması ile verileri analiz ediyorum. Bu algoritma, iki takım arasındaki geçmiş maçlara dayalı istatistikleri kullanarak gelecekteki maçlarda toplam kaç sayı atılacağını tahmin etmek için kullanıyorum.
 
 ### Proje Adımları
-1) İlk olarak, mevcut tarih, ay ve saati datetime modülü kullanılarak alınır.
+1) İlk olarak, mevcut tarih, ay ve saati <a href= "https://docs.python.org/3/library/datetime.html">datetime</a> modülü kullanılarak alınır.
 
 2) Ardından, NBA takımlarının istatistiklerini ve oynadıkları maçları içeren bir web sitesinden veri çekmek için <a href="https://pypi.org/project/requests-html/">requests_html</a> ve HTMLSession kullanılır.
 
